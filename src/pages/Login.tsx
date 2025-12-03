@@ -1,7 +1,7 @@
 export const Login = () => {
   return (
-    <div className="bg-[#0095da] h-full relative ">
-      <div className="w-full rounded-t-lg flex flex-col bg-white absolute">
+    <div className="bg-[#0095da] min-h-screen relative ">
+      <div className="w-full rounded-t-lg flex flex-col bg-white absolute bottom-0">
         <span>ثبت نام | ورود</span>
         <span>سلام، لطفا شماره تلفن همراه خود را وارد کنید.</span>
         <div className="w-full">
